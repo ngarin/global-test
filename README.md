@@ -16,3 +16,5 @@ Ce projet à été développé en Javascript, il faut donc avoir node d'install�
 - Installer les dépendencies `npm i`
 - Lancer le script `npm start`
 - Démarrer les tests `npm test`
+
+J'ai mis 30 minutes à finaliser l'exercice
